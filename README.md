@@ -1,5 +1,5 @@
 
-# Max González
+# Jesús Maximiliano González Frias
 
 ![Photo](profile_photo.png) \
 _Software developer based in Aguascalientes, AGS., Mexico_
