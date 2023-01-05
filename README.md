@@ -51,7 +51,7 @@ No-code platform that enables professionals to build interactive applications.
 ## 💬 Languages
 
 🇺🇸 **English**: C1 <br>
-mx **Spanish**: Native
+spa **Spanish**: Native
 <br><br>
 
 ## 👩🏼‍🎓 Education
