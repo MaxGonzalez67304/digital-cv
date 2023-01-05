@@ -8,7 +8,7 @@ _Software developer based in Aguascalientes, AGS., Mexico_
 
 ## About me!
 
-I am Mexican, 21 years old, and I am coursing the eight semester of Computer Systems Engineering at the Autonomous University of Aguascalientes. I am able to effectively solving problems, and also, able to easily learning any new technology.
+I am Mexican, 21 years old, and I am coursing the eight semester of Ingeniería en Sistemas Computacionales (ISC) in Computer Engineering at the Universidad Autónoma de Aguascalientes. I am able to effectively solving problems, and also, able to easily learning any new technology.
 
 ## My Goal
 
