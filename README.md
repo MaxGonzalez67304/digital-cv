@@ -1,7 +1,7 @@
 
 # Max González
 
-![Photo](profile_photo.png) 
+![Photo](profile_photo.png) \
 _Software developer based in Aguascalientes, AGS., Mexico_
 
 [Email](mailto:gonzalezfriasmax36@gmail.com) / [Linkedin](https://www.linkedin.com/in/maxgonzalezfrias/) / [github](https://github.com/MaxGonzalez67304)
