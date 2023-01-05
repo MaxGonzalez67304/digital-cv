@@ -36,6 +36,7 @@ Kotlin, React, Swift, Python
 |----|---|
 |08/2022 - 11/2022|Internship Student<br>LinkThinks, Aguascalientes|
 |03/2020 - 07/2022|Translator<br>Parrot Translation Services, Aguascalientes|
+|05/2018 - 08/2018|Clerk Technician<br>Cyber "El Vago", Aguascalientes|
 
 ## 👩🏼‍💻 Engineering Experience
 
