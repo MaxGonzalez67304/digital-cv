@@ -62,5 +62,5 @@ es **Spanish**: Native
 ## 💬 Hobbies
 
 🇺🇸 **English**: C1 <br>
-es **Spanish**: Native
+mx **Spanish**: Native
 <br><br>
