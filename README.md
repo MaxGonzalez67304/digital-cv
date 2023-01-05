@@ -1,7 +1,7 @@
 
 # Max González
 
-![Photo](profile_photo.jpeg) _Software developer based in Munich, Germany_
+![Photo](profile_photo.png) _Software developer based in Munich, Germany_
 
 [Email](mailto:info@marcko.ch) / [Twitter](https://twitter.com/marckoch1975) / [Xing](https://www.xing.com/profile/Marc_Koch35/cv) / [Linkedin](https://www.linkedin.com/in/marc-koch-159917209/) / [Project&nbsp;Euler](https://projecteuler.net/progress=marckoch75) / [codewars](https://www.codewars.com/users/marckoch) / [credly](https://www.credly.com/users/marc-koch/badges) / [Hackerrank](https://www.hackerrank.com/marckoch) / [github](https://github.com/marckoch) / [JetBrains&nbsp;Academy](https://hyperskill.org/profile/77202658) / [speakerdeck](https://speakerdeck.com/marckoch)
 
