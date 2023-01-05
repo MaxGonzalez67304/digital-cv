@@ -56,5 +56,11 @@ es **Spanish**: Native
 
 ## 👩🏼‍🎓 Education
 
-**Ingeniería en Sistemas Computacionales** <br>
+**Ingeniería en Sistemas Computacionales (ISC)** in Computer Engineering<br>
 [Universidad Autónoma de Aguascalientes](https://www.uaa.mx/portal/) - Aguascalientes, AGS _(Aug 2019 - Dec 2023)_ <br>
+
+## 💬 Hobbies
+
+🇺🇸 **English**: C1 <br>
+es **Spanish**: Native
+<br><br>
