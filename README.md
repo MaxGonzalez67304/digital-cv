@@ -6,15 +6,19 @@ _Software developer based in Aguascalientes, AGS., Mexico_
 
 [Email](mailto:gonzalezfriasmax36@gmail.com) / [Linkedin](https://www.linkedin.com/in/maxgonzalezfrias/) / [GitHub](https://github.com/MaxGonzalez67304)
 
+<br>
+
 ## 🙋‍♂️ About me!
 
 I am Mexican, 21 years old, and I am coursing the eight semester of Ingeniería en Sistemas Computacionales (ISC) in Computer Engineering at the Universidad Autónoma de Aguascalientes. I am able to effectively solving problems, and also, able to easily learning any new technology.
-<br><br>
+
+<br>
 
 ## 🔚 My Goal
 
 To be part of an organization that allows me to grow as a person and developer, where I can also provide efficient solutions through my skills.
-<br><br>
+
+<br>
 
 ## 💆 Soft Skills
 
@@ -23,17 +27,20 @@ To be part of an organization that allows me to grow as a person and developer, 
 * Teamwork
 * Interpersonal Communication
 * Customer Service
-<br><br>
+
+<br>
 
 ## 💻 Hard Skills
 
 C#, C++, Java, HTML, CSS, JavaScript, PHP, Angular, Flask, React Native, Bootstrap, SQL, MongoDB, Kotlin, Git  
-<br><br>
+
+<br>
 
 ## 💕 Would Love To Do More Of
 
 Kotlin, React, Swift, Python
-<br><br>
+
+<br>
 
 ## 👷 Work Experiencie
 
@@ -47,29 +54,24 @@ Kotlin, React, Swift, Python
 
 ## 👨‍💻 Engineering Experience
 
-**Internship Student** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
-<br><br>
-
 ## 💬 Languages 
 
 **English**: C1 <br>
 **Spanish**: Native
-<br><br>
+
+<br>
 
 ## 👨‍🎓 Education
 
 **Ingeniería en Sistemas Computacionales (ISC)** in Computer Engineering<br>
 [Universidad Autónoma de Aguascalientes](https://www.uaa.mx/portal/) - Aguascalientes, AGS _(Aug 2019 - Dec 2023)_
-<br><br>
+
+<br>
 
 ## ⛷️ Hobbies
 
 - Programming <br>
 - GYM <br>
 - Gaming <br>
-<br><br>
+
+<br>
