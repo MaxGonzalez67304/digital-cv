@@ -1,5 +1,5 @@
 
-# Max González
+# Jesus Maximiliano Gonzalez Frias
 
 ![Photo](profile_photo.png) <br>
 _Software developer based in Aguascalientes, AGS., Mexico_
@@ -28,17 +28,32 @@ Java, C, C++, Angular, Flask, React Native, JavaScript, PHP, HTML, CSS, SQL, Mon
 
 ## 💕 Would Love To Do More Of
 
-Kotlin, React JS, Swift, Python
-
-## 👷 Work Experiencie
-
-|Time|Company|
-|----|---|
-|01/2023 - 05/2023|Web Developer<br>Max4 Technologies, Aguascalientes|
-|08/2022 - 10/2022|Web Developer<br>LinkThinks, Aguascalientes|
-|03/2020 - 07/2022|Translator<br>Parrot Translation Services, Florida|
+Kotlin, React JS, Swift, Next JS
 
 ## 👨‍💻 Engineering Experience
+
+**Front-End Developer** @ [Max4 Technologies](https://max4technologies.com/) _(Jan 2023 - Jun 2023)_ <br>
+  - Assisted with creating cross-platform UI web components and built responsive applications using front-end 
+frameworks.
+  - Assembled and addressed technical and design requirements, integrating user-facing and front-end elements to 
+maintain web presence effectiveness.
+  - Multi-tasked across multiple functions and roles to meet deadlines and organizational expectations.
+  - **_Technologies used:_** JavaScript, PHP, SQL, HTML, CSS, WordPress.
+<br><br>
+
+**Full-Stack Developer** @ [LinkThinks](https://linkthinks.com/) _(Aug 2023 - Oct 2023)_ <br>
+  - Studied user requirements to gain strong understanding of project initiatives and deadlines.
+  - Attended development programs to gain competencies and boost skills set.
+  - Shadowed developers to learn key details about job duties and tasks.
+  - **_Technologies used:_** Angular, Flask, React Native, MongoDB, MySQL, REST API’s. 
+<br><br>
+
+**Translator** @ [Parrot Translation Services](https://parrotranslationservice.com/) _(Mar 2020 - Jul 2022)_ <br>
+  - Translated over 1,000 documents from English to Spanish and vice versa.
+  - Provided verbal summaries of non-Spanish documents to diverse audiences.
+  - Applied cultural understanding to discern specific meanings beyond literal written words.
+  - **_Technologies used:_** Microsoft Word, Adobe, memoQ.
+<br><br>
 
 ## 💬 Languages 
 
