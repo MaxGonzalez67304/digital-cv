@@ -41,13 +41,6 @@ maintain web presence effectiveness.
   - **_Technologies used:_** JavaScript, PHP, SQL, HTML, CSS, WordPress.
 <br><br>
 
-**Full-Stack Developer** @ [LinkThinks](https://linkthinks.com/) _(Aug 2023 - Oct 2023)_ <br>
-  - Studied user requirements to gain strong understanding of project initiatives and deadlines.
-  - Attended development programs to gain competencies and boost skills set.
-  - Shadowed developers to learn key details about job duties and tasks.
-  - **_Technologies used:_** Angular, Flask, React Native, MongoDB, MySQL, REST API’s. 
-<br><br>
-
 **Translator** @ [Parrot Translation Services](https://parrotranslationservice.com/) _(Mar 2020 - Jul 2022)_ <br>
   - Translated over 1,000 documents from English to Spanish and vice versa.
   - Provided verbal summaries of non-Spanish documents to diverse audiences.
@@ -57,7 +50,7 @@ maintain web presence effectiveness.
 
 ## 💬 Languages 
 
-**English**: C1 <br>
+**English**: C2 <br>
 **Spanish**: Native
 
 ## 👨‍🎓 Education
